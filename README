@@ -1,0 +1,110 @@
+# 🤖 Telegram AI Bot
+
+Simple AI Telegram bot built with Python, OpenAI API and Aiogram.
+
+---
+
+## 🚀 Features
+
+- ChatGPT integration
+- Telegram bot
+- Conversation memory
+- Async architecture
+- Environment variables support
+- Ready for Render deploy
+
+---
+
+## 🛠 Tech Stack
+
+- Python 3
+- Aiogram
+- OpenAI API
+- python-dotenv
+
+---
+
+## 📦 Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/squilux/YOUR_REPOSITORY.git
+```
+
+Open project:
+
+```bash
+cd YOUR_REPOSITORY
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 🔑 Environment Variables
+
+Create `.env` file:
+
+```env
+BOT_TOKEN=your_telegram_token
+OPENAI_API_KEY=your_openai_api_key
+```
+
+---
+
+## ▶️ Run Bot
+
+```bash
+python TelegrammAi.py
+```
+
+---
+
+## ☁️ Deploy
+
+This bot can be deployed on:
+
+- Render
+- Railway
+- VPS
+- Docker
+
+---
+
+## 📸 Preview
+
+Telegram → OpenAI API → AI Response
+
+---
+
+## 📚 What I learned
+
+- Async Python
+- Telegram Bot API
+- OpenAI API integration
+- Environment variables
+- Cloud deployment
+- Backend basics
+
+---
+
+## ⭐ Future Improvements
+
+- Voice messages
+- Image generation
+- PostgreSQL database
+- User accounts
+- Admin panel
+- AI memory
+- Subscription system
+
+---
+
+## 👨‍💻 Author
+
+Made by Vladislav
